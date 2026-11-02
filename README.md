@@ -1,7 +1,6 @@
 # Chain Reaction
 
-Официальная страница игры Chain Reaction — Eduard Shantaev.
-
+Официальная страница игры Chain Reaction 
 Одно касание запускает цепную реакцию. 500 уровней, 5000 расстановок. Офлайн, без рекламы, аккаунтов и встроенных покупок. Игра готовится к выпуску.
 
 One tap starts a chain reaction. 500 levels, 5,000 layouts. Offline, without ads, accounts or in-app purchases. In preparation for release.
